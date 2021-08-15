@@ -15,6 +15,6 @@ Posibles Fallos
 ---------------------------------------
 1. Asegurese de que la base de datos tenga los nombres antes descritos
 2. Este proyecto fue creado y programado en Intellij IDEA preferiblemente utilice este para ejecutar el codigo
-**El juego es suceptible a minusculas y mayusculas**
+3. **El juego es suceptible a minusculas y mayusculas**
 
 *MUCHAS GRACIAS*
